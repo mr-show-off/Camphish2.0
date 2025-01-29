@@ -11,9 +11,10 @@ If the victim grants access, the tool captures images from the webcam.
 Installation:
 
 CamPhish 2.0 can be downloaded from its GitHub repository. The installation process typically involves cloning the repository and running the tool using Python.
-        git clone https://github.com/techchipnet/CamPhish
-        cd CamPhish
-        bash camphish.sh
+        
+        git clone https://github.com/mr-show-off/Camphish2.0
+        cd Camphish2.0
+        bash camphish2.0.sh
 
 Disclaimer:
 Using tools like CamPhish 2.0 without proper authorization is illegal and unethical. Always obtain explicit permission before using such tools, and ensure that your actions comply with applicable laws and ethical guidelines. Misuse of this tool can result in severe legal consequences.
